@@ -10,13 +10,14 @@
 <img align="right" alt="img" src="https://github.com/zyhhhy/zyhhhy/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- 🙋‍♂️ Finish my Computer Engineering Master Degree at UCLA
+- 🎓 Finish my Computer Engineering Master Degree at UCLA
 - 📝 Build a ChatGPT-based paper summary web application [ZipPaper](https://zippaper.org/) 🚀
 - 🔭 Try to find a full-time SDE job in the United States
 
 #### :muscle: Things I am challenging myself with:
 - ⏰ Waking up earlier to make good use of the day
 - 🚴‍♂️ Exercising 3 days a week
+- 👋🏻 Practice English speaking everyday
 
 
 #### :computer: Programming languages and tools: 
