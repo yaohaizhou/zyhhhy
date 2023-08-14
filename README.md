@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently trying to find a full-time SDE job in the United States
+- 😄 My personal blog: https://zyhhhy.github.io/(Chinese) https://yaohaizhou.com/(English)
+- 💬 Conntact me at zyh828482@gmail.com
 
 <!--
 **zyhhhy/zyhhhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
