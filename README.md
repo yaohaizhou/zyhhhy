@@ -3,12 +3,16 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zyhhhy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaohai-zhou/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyh828482@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-English-green)](https://yaohaizhou.com/)
+[![Blog](https://img.shields.io/badge/Blog-Chinese-red)](https://zyhhhy.github.io/)
+
+
+<img align="right" alt="img" src="https://github.com/zyhhhy/zyhhhy/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - 🙋‍♂️ Finish my Computer Engineering Master Degree at UCLA
 - 📝 Build a ChatGPT-based paper summary web application [ZipPaper](https://zippaper.org/) 🚀
 - 🔭 Try to find a full-time SDE job in the United States
-- 😄 My personal blog: [English](https://yaohaizhou.com/) [Chinese](https://zyhhhy.github.io/)
 
 #### :muscle: Things I am challenging myself with:
 - ⏰ Waking up earlier to make good use of the day
