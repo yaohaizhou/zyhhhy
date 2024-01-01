@@ -32,7 +32,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/intel/intel-ar21.svg"></code>
+<code><img width="10%" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7Lep2Jkqgt9BtiMt8icbSA.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
