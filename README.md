@@ -9,7 +9,7 @@
 
 <img align="right" alt="img" src="https://github.com/zyhhhy/zyhhhy/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
 
-#### Self Introduction
+#### 👦 Self Introduction
 
 I am a CS MS graduate from UCLA with much programming experience, especially in artificial intelligence and software development. I have solid programming skills in Python, Rust, JavaScript, TypeScript, C++, Go, and Java. And I have hands-on experience with LangChain, LlamaIndex, FastAPI, Flask, Next.js, React.js, Vue.js, PyTorch, Docker, Nginx, Kafka, AWS, GCP, and other cloud technologies. I have a passion for innovation, a thirst for technologies, and a strong sense of collaboration.
 
