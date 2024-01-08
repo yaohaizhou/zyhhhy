@@ -9,8 +9,12 @@
 
 <img align="right" alt="img" src="https://github.com/zyhhhy/zyhhhy/blob/main/WechatIMG68.jpeg" width="25%" height="auto" />
 
+#### Self Introduction
+
+I am a CS MS graduate from UCLA with much programming experience, especially in artificial intelligence and software development. I have solid programming skills in Python, C++, Rust, JavaScript, TypeScript, Go, Java. And I have hands-on experience with FastAPI, Flask, Next.js, PyTorch, LangChain, LlamaIndex, Docker, Nginx, React, Vue, Kafka, AWS, GCP, and other cloud technologies. I have a passion for innovation, a thirst for technologies, and a strong sense of collaboration.
+
 #### 🌱 Things I am currently working on: 
-- 🎓 Finish my Computer Engineering Master Degree at UCLA
+- 🎯 Work as an intern in RealChar.ai. Hands-on projects are [RealChar](https://realchar.ai/) and [ReByte](https://rebyte.ai/) 🔥🔥🔥
 - 📝 Build a ChatGPT-based paper summary web application [ZipPaper](https://zippaper.org/) 🚀
 - 🔭 Try to find a full-time SDE job in the United States
 
