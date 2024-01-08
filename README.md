@@ -11,7 +11,7 @@
 
 #### Self Introduction
 
-I am a CS MS graduate from UCLA with much programming experience, especially in artificial intelligence and software development. I have solid programming skills in Python, C++, Rust, JavaScript, TypeScript, Go, Java. And I have hands-on experience with FastAPI, Flask, Next.js, PyTorch, LangChain, LlamaIndex, Docker, Nginx, React, Vue, Kafka, AWS, GCP, and other cloud technologies. I have a passion for innovation, a thirst for technologies, and a strong sense of collaboration.
+I am a CS MS graduate from UCLA with much programming experience, especially in artificial intelligence and software development. I have solid programming skills in Python, Rust, JavaScript, TypeScript, C++, Go, and Java. And I have hands-on experience with LangChain, LlamaIndex, FastAPI, Flask, Next.js, React.js, Vue.js, PyTorch, Docker, Nginx, Kafka, AWS, GCP, and other cloud technologies. I have a passion for innovation, a thirst for technologies, and a strong sense of collaboration.
 
 #### 🌱 Things I am currently working on: 
 - 🎯 Work as an intern in RealChar.ai. Hands-on projects are [RealChar](https://realchar.ai/) and [ReByte](https://rebyte.ai/) 🔥🔥🔥
